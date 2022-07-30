@@ -1,0 +1,8 @@
+click
+fuzzywuzzy
+pytest
+python-dotenv
+pytube
+requests-html
+spotipy
+URLextract
